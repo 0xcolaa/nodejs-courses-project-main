@@ -7,7 +7,7 @@ let courses = [
     },
     {
         id: 2,
-        title: "Python course",
+        title: "react course",
         price: 800
     }
 ]
